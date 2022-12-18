@@ -1,0 +1,311 @@
+*{
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Raleway-Italic';
+    src: url('/Raleway-Italic-VariableFont_wght.ttf');
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+header{
+    height: 80px;
+    box-shadow: 0 8px 10px -3px rgb(218, 212, 212);
+    width: 100%;
+    
+}
+
+.content1{
+    display: flex; 
+    justify-content: space-between;
+    gap: 20px;
+    align-items:center ;
+    
+}
+.logo{
+    max-height: 30px;
+}
+.inst{
+    max-height: 22px;
+}
+.viber{
+    max-height: 18px;
+}
+.tel{
+    max-height: 78px;
+}
+.title-logo{
+    max-width: 165px;
+    font-size: 12px;
+    font-family: 'Raleway';
+    font-weight: 400;
+    
+}
+
+.h2{
+    font-size: 30px;
+    max-width: 652px;
+    margin-bottom: 16px;
+    padding-top: 100px;
+    font-family: 'Raleway';
+}
+hr{
+    width: 80px;
+    height: 2px;
+    margin-left: 0;
+    background-color: #1D4FCF;
+}
+
+span{
+    color:  #0586E8;
+}
+.content2{
+    
+    align-items:center ;
+    max-width: 1200px;
+    background-position-x: left;
+    background-image: url('./work-snow-cold-winter-road-white-1198990-pxhere\ 1\ \(1\).jpg')  ;
+    background-repeat: no-repeat;
+    background-position: top -100px right -50px;
+    
+}
+.info1,
+.info2,
+.info3{
+    display: flex;
+    align-items: center;
+}
+.picture{
+    margin-right: 15px;
+}
+.info{
+    margin-top: 52px;
+}
+.text{
+    font-size: 18px;
+    max-width: 463px;
+    line-height: 21px;
+    margin-top: 16px;
+    font-family: 'Raleway';
+}
+.text1{
+
+    height: 32px;
+    font-size: 14px;
+    font-family: 'Raleway';
+}
+.content3{
+    margin-top: 144px;
+}
+.subtitle{
+    font-size: 30px;
+    max-width: 361px;
+    height: 35px;
+    color: #0586e8;
+    line-height: 35px;
+    font-family: 'Raleway';
+    font-weight: 800;
+}
+.subtitle-hr{
+    background: #c4c4c4;
+    width: 80px;
+    margin-bottom: 40px;
+}
+.row{
+    display: flex;
+    justify-content: space-between;
+    gap: 25px;
+}
+.row1{
+    display: flex;
+    box-sizing: border-box;
+    border-radius: 16px;
+    box-shadow:0px 0px  10px 0px   #8d95a5;
+    align-items: center;
+    padding: 5px 20px;
+    text-align: center;
+    gap: 16px;
+    font-family: 'Raleway';
+}
+.section{
+    max-width: 484px; 
+    margin: 0 auto;
+
+}
+.subtitle1-hr{
+    max-width: 484px; 
+    justify-content: center;
+    background: #8d95a5;
+}
+
+.subtitle1{
+    max-width: 484px;
+    margin-top: 140px;
+    font-family: 'Raleway';
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 35px;
+    color: #0586e8;
+     
+}
+.content-box{
+    display: flex;
+    gap: 30px;
+    justify-content: space-between;
+}
+.box{
+    border-radius: 16px;
+    box-shadow:0px 0px  10px 0px   #8d95a5;
+    max-width: 278px;
+    text-align: center;
+    padding: 40px 30px;
+}
+.desc{
+    
+    padding-top: 30px;
+    font-size: 16px;
+    font-family: 'Raleway';
+    line-height: 18px;
+    font-weight: 600;
+}
+.price{
+    margin: 0px;
+    font-size: 20px;
+    color:#0586E8;
+    font-family: 'Raleway';
+    font-weight: 700;
+}
+.content5{
+    margin-top: 140px;
+}
+.subtitle2-hr{
+    background-color: #8d95a5;
+    margin: 0 auto;
+    margin-top: 16px;
+    margin-bottom: 40px;
+}
+.subtitle2{
+    margin: 0 auto;
+    max-width: 383px;
+    font-weight: 800;
+    color: #0586E8;
+    font-family: 'Raleway';
+    font-size: 30px;
+}
+.table{
+    width: 100%;
+    border-radius: 16px;
+}
+
+td,th{
+    box-shadow: 0px 0px 10px 0px #d7dbe4;
+}
+td{
+    padding: 23px 72px;
+    font-size: 16px;
+    font-family: 'Raleway';
+    text-align: center;
+    font-weight: 600;
+}
+th{
+    padding: 22px 56px 24px;
+   
+}
+.caption1{
+    font-size: 18px;
+}
+.caption{ 
+    
+    color: #0586E8;
+    font-family: 'Raleway';
+    font-weight: 600;
+    font-size: 16px;
+    border-radius: 16px 16px;
+
+}
+.table-content{
+    border-radius: 16px;
+}
+.button{
+    background-color: #0586e8;
+    color: white;
+    font-family: 'Raleway';
+    font-size: 16px;
+    font-weight: 700;
+    padding: 15px 103px;
+    border-radius: 8px;
+    border: 0px solid;
+    margin-top: 40px;
+    
+    
+    
+}
+.click{
+    margin: 0 auto;
+    margin-top: 40px;
+    max-width: 277px;
+    
+
+}
+.button:hover{
+    background-color: #1D4FCF;
+}
+
+.content6-title{
+    font-family: 'Raleway';
+    font-weight: 800;
+    font-size: 30px;
+    color: #0586E8;
+    line-height: 35px;
+    width: 211px;
+    margin-bottom: 16px;
+    
+}
+.content6-hr{
+    background-color: #8d95a5;
+    margin-bottom: 40px;
+}
+.tehno{
+    display: flex;
+    gap: 30px;
+    
+}
+.tehno1{
+    display: flex;
+    
+    box-shadow: 0px 0px 10px 0px #d7dbe4;
+    border-radius: 16px;
+}
+.tehno-title{
+    font-family: 'Raleway';
+    font-weight: 700;
+    color: #0586e8;
+    font-size: 20px;
+   
+}
+.tehno-title2{
+    font-family: 'Raleway';
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 18px;
+    width: 177px;
+    margin-bottom: 30px;
+    margin-top: 8px;
+}
+
+.tehno-info{
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 14px;
+    max-width: 234px;
+    gap: 5px;
+
+}
+.tehno-img{
+    border-radius: 16px;
+}
+.tehno-text{
+    margin: 48px 28px 69px;
+}
+

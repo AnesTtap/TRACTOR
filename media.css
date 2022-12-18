@@ -1,0 +1,105 @@
+@media screen and (max-width: 1166px) {
+    header{
+        width: 1000px;
+
+    }
+    .content1{
+        max-width: 940px;
+        
+    }
+    .content2{
+       max-width: 1000px;
+       
+    }
+    .h2
+    {
+        width: 500px;
+    }
+    .text{
+        width: 300px;
+    }
+    .content3{
+        max-width: 1000px;
+        
+    }
+    .subtitle{
+        margin-left: 10px;
+    }
+    .subtitle-hr{
+        margin-left: 10px;
+    }
+    .row{
+        width: 1000px;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+        
+        
+    }
+    .content4{
+        max-width: 900px;
+        
+    }
+    .content-box{
+        flex-wrap: wrap;
+        width: 900px;
+        margin-left: 35px;
+    }
+    .content6-title{
+        margin-left: 20%;
+    }
+    .content6-hr{
+        margin-left: 20%;
+    }
+   .tehno{
+    flex-wrap: wrap;
+    max-width: 950px;
+    margin-left: 100px;
+   }
+   .table{
+    max-width: 990px;
+   
+   }
+   .caption1{
+    padding:10px;
+   }
+   .caption0{
+    padding: 10px;
+   }
+}
+/*
+@media screen and (max-width: 390px){
+    .logo{
+        width: 59px;
+    }
+    .inst
+    { width: 45px;
+    }
+    .viber{
+        width: 150px;
+    }
+    .tel{
+        width: 170px;
+    }
+    .content1{
+        max-width: 350px;
+        flex-wrap: wrap;
+        margin-left: 2%;
+        
+    }
+    header{
+        min-height: 125px;
+    }
+    .content2{
+        width: 375px;
+    }
+    .subtitle-hr{
+        margin-top: 50px;
+    }
+    .subtitle1-hr{
+        margin-top: 20px;
+    }
+    .tehno1{
+        flex-wrap: wrap;
+    }
+}*/
